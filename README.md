@@ -13,13 +13,13 @@ for MySQL:
 
 Step 2:
 for Windows:
-set FLASK_APP=flasky.py
-set FLASK_DEBUG=1
-set FLASK_ENV=development
+1) set FLASK_APP=flasky.py
+2) set FLASK_DEBUG=1
+3) set FLASK_ENV=development
 
 Step 3:
-set MAIL_USERNAME=myusername@gmail.com
-set MAIL_PASSWORD=youpassword
+1) set MAIL_USERNAME=myusername@gmail.com
+2) set MAIL_PASSWORD=youpassword
 
 Step 4:
-flask run
+  flask run
