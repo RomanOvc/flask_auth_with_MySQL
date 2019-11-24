@@ -3,7 +3,7 @@
 In terminal:
 
 for download and packaging installation
-(venv) pip install -r requirements.txt
+1)(venv) pip install -r requirements.txt
 
 
 Step 2:
