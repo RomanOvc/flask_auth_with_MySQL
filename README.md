@@ -2,8 +2,8 @@
 
 In terminal:
 
-for download and packaging installation
-1)(venv) pip install -r requirements.txt
+for download and packaging installation:
+  1)(venv) pip install -r requirements.txt
 
 
 Step 2:
