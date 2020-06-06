@@ -10,7 +10,7 @@ Click==7.0
 colorama==0.4.1
 crypto==1.4.1
 cycler==0.10.0
-Django==2.1.11
+Django==2.2.13
 django-ckeditor==5.6.1
 django-cors-headers==2.4.0
 django-filer==1.4.4
